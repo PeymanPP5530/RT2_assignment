@@ -18,7 +18,7 @@ The second assignment focuses on utilizing Jupyter to create a graphical interfa
 
 1. Incorporating buttons for controlling the motion of the robot within the environment.
 2. Generating a plot that displays the positions of the robot and the targets within the environment.
-3. Including a text box that provides the distance to the nearest obstacle or alternatively presents an overall plot of the laser scanner readings.
+3. Including a text box that provides the distance to the nearest obstacle.
 4. Creating a plot illustrating the count of reached and not-reached targets.
 
 By implementing these features within the Jupyter Notebook, users can intuitively control the robot's movements, visualize its position and the positions of the targets, receive information about obstacle distances, and monitor the progress of target achievements.

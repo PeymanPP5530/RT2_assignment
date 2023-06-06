@@ -9,7 +9,7 @@ Peyman Peyvandi Pour, S5573284
 The assignment of Research Track 2 course consist of three parts that are presented in this repository as shown below:
 
 ## Software Documentation
-For this assignment, we're going to use **Sphinx** to document the code we wrote for the second assignment in the Research Track 1 course. Within the associated GitHub repository, there are files relevant to this assignment under the `docs` folder.
+For this assignment, I used **Sphinx** to document the code I wrote for the second assignment in the Research Track 1 course. Within the associated GitHub repository, there are files relevant to this assignment under the `docs` folder.
 
 
 ## Jupyter Notebook
